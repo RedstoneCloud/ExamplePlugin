@@ -2,3 +2,4 @@ name: ExamplePlugin
 author: RedstoneCloud Devs
 version: 1.0-Beta
 main: de.redstonecloud.Main
+api: 1.0.0
