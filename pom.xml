@@ -16,17 +16,17 @@
 
     <repositories>
         <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
+            <id>lpmc-redstonecloud</id>
+            <url>https://repo.lostplacemc.eu/redstonecloud</url>
         </repository>
     </repositories>
 
     <dependencies>
         <dependency>
-            <groupId>com.github.RedstoneCloud.RedstoneCloud</groupId>
-            <artifactId>cloud</artifactId>
-            <version>main-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
+		    <groupId>de.redstonecloud</groupId>
+		    <artifactId>cloud</artifactId>
+		    <version>0.1-beta</version>
+		    <scope>provided</scope>
+		</dependency>
     </dependencies>
 </project>
